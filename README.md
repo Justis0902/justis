@@ -6,7 +6,7 @@
 # Educations
 - Tunghai University
 - Ha Noi Highschool
-- New York Junior
+- Ha Noi Junior
 
 # Computer skills
 Not really good
