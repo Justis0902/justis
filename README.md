@@ -1,10 +1,7 @@
 # Justis
 
 # Job experiences
-- CIA
-- FBI
-- M16
-- Liar
+- Sale Administration
 
 # Educations
 - Tunghai University
