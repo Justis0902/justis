@@ -1,11 +1,11 @@
-# Justis Handsome guys
+# Justis 
 
 # Job experiences
 - Sale Administration in Hagimex JSC
 
 # Educations
 - Tunghai University
-- Vietnam National University
+- Vietnam National University (Business Admisitration)
 - Ha Noi Highshool
 
 # Computer skills
