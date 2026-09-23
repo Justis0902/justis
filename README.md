@@ -1,12 +1,18 @@
 # Justis Handsome guys
 
 # Job experiences
-- Sale Administration
+- Sale Administration in Hagimex JSC
 
 # Educations
 - Tunghai University
-- Ha Noi Highschool
-- Ha Noi Junior
+- Vietnam National University
+- Ha Noi Highshool
 
 # Computer skills
-Not really good
+- Google Antigravity
+- Github
+- Git
+- Python
+
+# Honors
+- THU Shcolarship
